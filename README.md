@@ -9,7 +9,7 @@
 <ol>
   <li><a href='https://www.vrs.de/fahren/haltestellenauskunft/abfahrtsmonitor'>VRS-Seite</a> aufrufen und den Konfigurator starten</li>
   <li>Hier kann gewählt werden, welche Haltestelle genutzt werden soll. Zudem ist eine Einschränkung nach Verkehrsmittel, Linien und Linienrichtungen, sowie der minimalen Anreisezeit zur Haltestelle möglich.</li>
-  <li>Soll das Widget im large oder extraLarge-Format (iPad) genutzt werden, sollte eine under "Darstellung Anpassen" eine Zeilenanzahl von 25 gewählt werden. Sonst reichen 5.</li>
+  <li>Soll das Widget im large oder extraLarge-Format (iPad) genutzt werden, sollte unter "Darstellung Anpassen" eine Zeilenanzahl von 25 gewählt werden. Sonst reichen 5.</li>
   <li>Über "Zum Abfahrtsmonitor wechseln" kann in eine Vollbildansicht gewechselt werden. Hier befindet sich die ID des Abfahrtsmonitors im URL-Text der Website, alles nach dem letzten "/". z.B:
   <p>URL: vrs.de/am/s/<b>56272f4478758c4633511d3ac132a99c</b></p>
   <p>Also ist die ID: 56272f4478758c4633511d3ac132a99c</p>
